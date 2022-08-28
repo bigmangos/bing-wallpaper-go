@@ -1,0 +1,39 @@
+name: daily run
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron:  '0 9 * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Go environment
+        uses: actions/setup-go@v3
+        with:
+            go-version: '1.19.0'
+      - name: Run
+        run: go run ./cmd/wallpaper/main.go
+
+      - name: Commit files
+        run: |
+          now_date=$(date +'%Y-%m-%d')
+          git config --local user.email "ifenghuangxin@gmail.com"
+          git config --local user.name "BigMangos"
+          git pull
+          git add --all
+          git commit -m "update ${now_date}"
+
+      - name: Push changes
+        uses:  ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GIT_TOKEN }}
+          branch: master
