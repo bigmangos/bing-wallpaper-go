@@ -1,7 +1,7 @@
 ## Bing Wallpaper (2023-08)
 本项目是 [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) 项目的Go实现，感谢原作者提供优质项目。
 
-![](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg&w=1000)Today: [Climber on Denali, Denali National Park, Alaska (© Andrew Peacock/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg&w=1000)Today: [Sandstone butte in Capitol Reef National Park, Utah (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-08-02 [download 4K](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-08-01 [download 4K](https://cn.bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-08-03 [download 4K](https://cn.bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-08-02 [download 4K](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-08-01 [download 4K](https://cn.bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg)|
