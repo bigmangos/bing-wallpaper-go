@@ -1,7 +1,8 @@
 ## Bing Wallpaper (2024-01)
 本项目是 [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) 项目的Go实现，感谢原作者提供优质项目。
 
-![](https://cn.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg&w=1000)Today: [Prayer flags in Phobjikha Valley, Bhutan (© John Warburton-Lee/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_UHD.jpg&w=1000)Today: [Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images)](https://cn.bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-01-03 [download 4K](https://cn.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-01-02 [download 4K](https://cn.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.ThailandNewYears_EN-US7115555089_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-01-01 [download 4K](https://cn.bing.com/th?id=OHR.ThailandNewYears_EN-US7115555089_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-01-04 [download 4K](https://cn.bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-01-03 [download 4K](https://cn.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-01-02 [download 4K](https://cn.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.ThailandNewYears_EN-US7115555089_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-01-01 [download 4K](https://cn.bing.com/th?id=OHR.ThailandNewYears_EN-US7115555089_UHD.jpg)|
