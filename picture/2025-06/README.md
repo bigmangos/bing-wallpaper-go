@@ -1,0 +1,7 @@
+## Bing Wallpaper (2025-06)
+本项目是 [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) 项目的Go实现，感谢原作者提供优质项目。
+
+![](https://cn.bing.com/th?id=OHR.SwedenReserve_EN-US8234763267_UHD.jpg&w=1000)Today: [Knuthöjdsmossen, a nature reserve in Sweden (© Sven Halling/DEEPOL/plainpicture)](https://cn.bing.com/th?id=OHR.SwedenReserve_EN-US8234763267_UHD.jpg)
+|      |      |      |
+| :----: | :----: | :----: |
+|![](https://cn.bing.com/th?id=OHR.SwedenReserve_EN-US8234763267_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-06-01 [download 4K](https://cn.bing.com/th?id=OHR.SwedenReserve_EN-US8234763267_UHD.jpg)|
