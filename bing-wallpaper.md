@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-05-26 | [Memorial Amphitheater at Arlington National Cemetery, Arlington, Virginia (© idesignimages/Getty Images)](https://cn.bing.com/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906_UHD.jpg) 
+
 2026-05-25 | [Tre Cime Nature Park, South Tyrol, Italy (© Adisorn Fineday Chutikunakorn/Getty Images)](https://cn.bing.com/th?id=OHR.DolomitesPark_EN-US0828472809_UHD.jpg) 
 
 2026-05-23 | [Kauehi Atoll, Tuamotu Archipelago, French Polynesia (© WaterFrame_dpr/Alamy)](https://cn.bing.com/th?id=OHR.KauehiAtollLagoon_EN-US6299031230_UHD.jpg) 
