@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-08-09 | [Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)](https://cn.bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg) 
+
 2026-08-08 | [Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)](https://cn.bing.com/th?id=OHR.ColorfulCop_ROW6097405388_UHD.jpg) 
 
 2026-08-07 | [Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)](https://cn.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg) 
